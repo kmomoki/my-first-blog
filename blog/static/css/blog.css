@@ -36,6 +36,8 @@ h2{
 
 .date p{
     float: right;
+    padding: 0;
+    margin: 0;
 }
 
 .save {
@@ -62,7 +64,7 @@ h2{
 }
 
 .post h2 a:hover{
-    color: rgba(194, 81, 0, 0.5);;
+    color: rgba(194, 81, 0, 0.5);
 }
 
 .post h2 a {
